@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "NED-Unity2026.slnx"
+    "dotnet.defaultSolution": "NED2026.slnx"
 }
