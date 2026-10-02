@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
     // Bool True or False
 
     public int TargetFPS = 100;
-    public int Speed = 10;
+    public int Speed = 20;
     public int RotationSpeed = 5;
 
     public int JumpForce = 10;
